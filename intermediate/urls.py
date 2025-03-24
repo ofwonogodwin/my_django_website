@@ -4,5 +4,5 @@ from.import views
 #List of the URL patterns.
 
 urlpatterns = [
-    path('home/',views.home),
+    path('',views.home),
 ]
