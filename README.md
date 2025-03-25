@@ -1,4 +1,4 @@
-# Views and Url Mapping In Django.
+# Simple Web App
 
 It is my humble culture to always plug my code onto github and continue doing Contnuos Integration & Version Control.<br>
 Today I actually am an expert with URL routing...
